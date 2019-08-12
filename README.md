@@ -1,11 +1,11 @@
-## Shuttle
+# Shuttle
 This is  an explanation on the approach to shuttle data(NASA)
 
-# Problem Statement:
+## Problem Statement:
 Detect if there is an anomaly in the radiator of a NASA Space Shuttle at a given point of time by taking the conditions of radiator into consideration.
-# About Anomaly Detection:
+## About Anomaly Detection:
 Anomaly detection is a technique used to identify unusual patterns that do not conform to expected behaviour. It has many applications in business, from intrusion detection (identifying strange patterns in network traffic that could signal a hack) to system health monitoring (spotting a malignant tumour in an MRI scan), and from fraud detection in credit card transactions to fault detection in operating environments.
-# Data Description:
+## Data Description:
 The dataset shuttle has 58,000 data points; 43,500 for training and 14,500 for testing. There are 9 attributes and 1 target variable. The Id variables is the different instances of Time.
 The target variable contains 7 classes: 
     1.	Rad Flow 
